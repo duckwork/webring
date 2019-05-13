@@ -7,22 +7,27 @@ layout: base
 <div class="markdown">
     <h2>What's this?</h2>
     <p>
-        A community of sites around a common topic, also known as a <a href="https://en.wikipedia.org/wiki/Webring">webring</a>. 
-        Each member includes a badge on their site that links to the previous and next sites in the ring. 
-        Kids in the 90s used to love it!
+        This is a <a href="https://en.wikipedia.org/wiki/Webring">webring</a> of writers in and around the Fediverse.
+        We came together after <a href="">@acdw</a>'s toot suggesting it:
+        <iframe src="https://writing.exchange/@acdw/102089022010896923/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://writing.exchange/embed.js" async="async"></script>
+        He got the idea (and the code) 
+        from <a href="https://webringdemo.netlify.com/">this project</a> 
+        by <a href="https://mxb.dev/">Max Böck</a>.
     </p>
 
     <h2>How to join</h2>
+    <h3>The easy way</h3>
+    <p>
+        If you don't have a Github account, you can also use this form to sign up.
+        The webring admins will then look at your site and handle your request.
+    </p>
+    {% include 'signupform.njk' %}
+    
+    <h3>The tech-savvy way</h3>
     <p>
         To join the webring, <a href="{{ meta.repo }}/compare">open a pull request</a> 
         and supply the name and URL of your site. If you publish a RSS feed, you can provide that as well.
     </p>
-    <p>
-        If you don't have a Github account, you can also use this form to sign up. 
-        The webring admins will then look at your site and handle your request.
-    </p>
-
-    {% include 'signupform.njk' %}
 
     <h2>Add the banner</h2>
     <p>
@@ -40,7 +45,7 @@ layout: base
     <h2>Want to host your own webring?</h2>
     <p>
         If you want to start your own webring, fork 
-        <a href="https://github.com/maxboeck/webring">this project</a> on Github 
+        <a href="https://github.com/maxboeck/webring">Max's project</a> on Github 
         and follow the instructions in the README.
     </p>
 
