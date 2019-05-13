@@ -24,4 +24,4 @@ Join us!
 
 (Or [host your own ring](https://github.com/maxboeck/webring).)
 
-Details are available at the [ring homepage](https://fediversewritersring.netlify.com/).
+Details are available at the [ring homepage](https://word-wring.netlify.com/).
