@@ -2,7 +2,7 @@
     "title": "Writers of the Fediverse!: a webring",
     "description": "We are writers who live on the Internet.",
     "image": "freakazoid.jpg",
-    "url": "https://webringdemo.netlify.com",
+    "url": "https://writers-webring.netlify.com",
     "repo": "https://github.com/duckwork/webring",
     "admins": [
         {
