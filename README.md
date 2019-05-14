@@ -12,8 +12,8 @@ To that end, many of us have our own websites,
 and what better way to connect those websites than a webring?
 
 That's what this is. A webring for writers in the Fediverse.
-Do you write fiction, literary, fan-, or otherwise? 
-Poetry, good or bad or baroque? 
+Do you write fiction, literary, fan-, or otherwise?
+Poetry, good or bad or baroque?
 How-to manuals, on any subject whatsoever?
 Personal essays about love or loss or hair or what's going on in your daily life?
 Investigative journalism, on anything from geopolitics to who ate the last cookie from the jar?
@@ -24,4 +24,4 @@ Join us!
 
 (Or [host your own ring](https://github.com/maxboeck/webring).)
 
-Details are available at the [ring homepage](https://word-wring.netlify.com/).
+Details are available at the [ring homepage](https://writer-webring.netlify.com/).
